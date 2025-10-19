@@ -1,3 +1,5 @@
+⚠️ WARNING: Do not delete or rename this file without updating the fetch URLs in the Wandly codebase.
+
 # TravelPlan Data Repository
 
 ## Purpose
